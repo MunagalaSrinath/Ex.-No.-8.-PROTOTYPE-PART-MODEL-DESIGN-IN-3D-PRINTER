@@ -24,16 +24,20 @@
 
 ### Step 4.:- select the Move option for design print position in build tack plate and then after select the Rotate option for rotate the design easily printed and used low print material as shown in below figure.
 
-![2023-06-05 (1)](https://github.com/shoaib3136/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/117919362/d87e0249-926c-4bc0-a20d-ca6ad9d651ad)
+![image](https://github.com/MunagalaSrinath/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118678482/800c23c3-3bad-4cd8-bec3-66be4da4f7c9)
+
 
 ### Step 5.:- select the Scale option for design scale according to build plate area and then after click the start option and select printing option standard as shown in below figure.
 
-![image](https://github.com/shoaib3136/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/117919362/1ef53097-0420-426f-b7bf-a6ee70ebaef1)
+![image](https://github.com/MunagalaSrinath/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118678482/60d2faea-2e10-4c96-8037-885fb22d3250)
+
 
 ### Step 6.:- After completing all settings then click the Slice option and export the file in gcode format.
 
-![2023-06-05 (2)](https://github.com/shoaib3136/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/117919362/c3829a6b-f940-4490-805a-8d906a80ffd0)
-![2023-06-05 (3)](https://github.com/shoaib3136/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/117919362/45d13d3e-704a-4644-a53f-ae9c299f3dcc)
+![image](https://github.com/MunagalaSrinath/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118678482/ca4c9501-4ceb-4d66-9e8b-01da47533e6a)
+
+![image](https://github.com/MunagalaSrinath/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118678482/b48512b8-0f17-4e76-bca3-ad10ab13f3f0)
+
 
 ### Step 7.:- After generating the gcode format then follow the these instruction as shown in below figure.
 ###   1.	Switch on the 3d printer.
@@ -48,11 +52,14 @@
 
 ### preview of the model after slicing process:
 
-![image](https://github.com/shoaib3136/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/117919362/3013ba8c-60ea-4910-8a37-5af54e5ddf90)
+![image](https://github.com/MunagalaSrinath/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118678482/41bca896-1a0b-49ac-87e2-8307c5b63228)
+
 
 ### Final Output:
 
-![WhatsApp Image 2023-06-12 at 07 49 53](https://github.com/shoaib3136/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/117919362/a1a79645-cd11-4443-abd1-8db09b986a12)
+
+![WhatsApp Image 2023-06-15 at 09 51 49](https://github.com/MunagalaSrinath/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118678482/46831147-6f26-43d6-95bc-277f34f8cfc3)
+
 
 
 ## Name: M SRINATH
