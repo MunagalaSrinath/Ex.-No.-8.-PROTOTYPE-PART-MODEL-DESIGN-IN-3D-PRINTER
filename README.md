@@ -20,7 +20,8 @@
 
 ### Step 3:- select the Pan option and select the extruder (left of right) for printing the design and then after select the Repair option for auto correction of design of software parameter as shown in below figure.
 
-![2023-06-05](https://github.com/shoaib3136/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/117919362/960e9100-485f-4da6-a206-b25ad62012d8)
+![image](https://github.com/MunagalaSrinath/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118678482/c3980621-d472-429d-9c22-5f437f6e447a)
+
 
 ### Step 4.:- select the Move option for design print position in build tack plate and then after select the Rotate option for rotate the design easily printed and used low print material as shown in below figure.
 
